@@ -1,0 +1,9 @@
+
+
+请使用arduinoIDE软件打开源码，选择CF-Drone.ino文件打开
+
+注意要使用Arduino IDE 2.3.x以上版本编译，不支持老版本的1.8.19！
+
+必须安装ESP32开发板核心库（即esp32 by Espressif Systems）和依赖（MAVLINK等），并且ESP32开发板库要安装3.3.x版本！！（这点非常重要！否则也会编译报错）
+
+开发板可选择ESP32 Dev Module或WeMOS D1 MINI ESP32

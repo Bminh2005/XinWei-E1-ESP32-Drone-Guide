@@ -1,0 +1,80 @@
+*************************** START ****************************
+START TIME: 202605081646
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: 92c70000
+0x3ff00054: 02002df3
+0x3ff00058: cd00b000
+0x3ff0005c: 0024a160
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 205
+target crc val: 205
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 199
+target crc val: 199
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:92C70000
+    REG1:02002DF3
+    REG2:cd00b000
+    REG3:0024A160
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 24 a1 60 2d f3 92CUSTOM_ID: 0C D0 00 00 00 0C 70 00 
+MAC AP : 26-A1-60-2D-F3-92
+MAC STA: 24-A1-60-2D-F3-92
+get mac res: 1
+get flash id : 0x001440ef
+manufacturer_id: 0xef
+device_id: 0x4014
+Wrote 1048576 bytes at 0x00000000 in 8.8 seconds (effective 951.2 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 11 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202605081646
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+*************************** START ****************************
+START TIME: 202605081646
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
